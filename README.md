@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M_S_Chauhan369
 - 👀 I’m interested in coding and cyber security.
 - 🌱 I’m currently learning programming...
-- 💞️ I’m looking to collaborate on Python and Data Science from BABA AMMAR CHILLA2.0...
+- 💞️ I’m learnig Python ka Chilla with Baba Aammar G and He is my hero...Stay Blessed mY dear Aammar G
 
 
 <!---
