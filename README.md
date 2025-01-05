@@ -1,6 +1,6 @@
 👋 Hello, I'm M_S_Chauhan369!
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer and SOC analyst with a keen interest in coding, cybersecurity, and data analysis. My journey in the tech world has been both exciting and rewarding, and I'm always eager to learn more and improve my skills.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and Cybersecurity with a keen interest in coding, cybersecurity, Attorney at Law and data analysis. My journey in the tech world has been both exciting and rewarding, and I'm always eager to learn more and improve my skills.
 🌟 About Me
 
     Interests: I have a strong passion for coding, cybersecurity, and data analysis. I love exploring new technologies and finding innovative solutions to complex problems.
